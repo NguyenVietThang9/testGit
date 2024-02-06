@@ -3,6 +3,7 @@ using namespace std;
 // sua file
 // sua file1
 // b
+//a
 template <class temp>
 temp thuong(temp x1, temp x2){
     return (x1*1.0)/x2;
