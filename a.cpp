@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// sua file
 template <class temp>
 temp thuong(temp x1, temp x2){
     return (x1*1.0)/x2;
